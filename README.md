@@ -1,6 +1,6 @@
-# KurosekAI Portfolio
+# KurosekAI
 
-Welcome to my personal portfolio repository.  
+Welcome to my personal repository.  
 Here I showcase my projects in AI, game development, tutorials, and more.
 ## Projects
 [![AI Experiments](https://img.shields.io/badge/AI-Experiments-blue?style=for-the-badge)](projects/ai-experiments/README.md)<br>
